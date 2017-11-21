@@ -22,21 +22,21 @@ Exemple : SERV135-03
 ```
 # Ajouter le rôle
   Gérer
-  Ajouter rôle et fonc.
-  Option radio 1
-  Service AD DS
-  Passer jusqu'à l'installation
+  - Ajouter rôle et fonc.
+  -- Option radio 1
+  -- Service AD DS
+  -- Passer jusqu'à l'installation
 ```
 > Une alerte apparaît, cliquez sur "Promouvoir en contrôleur de domaine"
 ```
-  Ajouter une nouvelle forêt (DOM135-03.local)
-  Choisir la compatibilité du même type et les deux premières cases, mot de passe : P@ssw0rd
-  Passer jusqu'à l'installation
+  - Ajouter une nouvelle forêt (DOM135-03.local)
+  -- Choisir la compatibilité du même type et les deux premières cases, mot de passe : P@ssw0rd
+  -- Passer jusqu'à l'installation
 ```
 
 > Maintenant, on modifie la stratégie des mots de passe
 ```
-Gestion des stratégies de groupe
+Outils, "Gestion des stratégies de groupe"
 - Votre domaine (exemple: DOM135-03.local)
 -- Clique droit, créer un objet GPO
 --- Nom à convenance, valider
