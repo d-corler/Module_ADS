@@ -37,9 +37,14 @@ Exemple : SERV135-03
 > Maintenant, on modifie la stratégie des mots de passe
 ```
 Gestion des stratégies de groupe
-Domain Controllers
-Créer un objet GPO
-  Nom à convenance
+- Votre domaine (exemple: DOM135-03.local)
+-- Clique droit, créer un objet GPO
+--- Nom à convenance, valider
+-- Clique droit sur le nouvel objet, "appliqué"
+
+-- Dans le panneau à droite lorsque le domaine est sélectionné
+--- Onglet "objets de stratégie de groupe liés"
+---- Placer le nouvel objet en premier
 
 Clique droit sur le nouvel objet, modifier
 - Configuration ordinateur
