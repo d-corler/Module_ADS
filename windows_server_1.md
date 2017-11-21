@@ -9,11 +9,14 @@
  192.168.x.1 (Passerelle)
  192.168.x.10 (DNS)
 ```
-2 - Changer le nom de l'ordinateur (Exemple : SERV135-03)
+2 - Changer le nom de l'ordinateur
+```
+Exemple : SERV135-03
+```
 
-3 - Redémarrer
+> Redémarrer
 
-4 - Ajouter le contrôleur de domaine
+3 - Ajouter le contrôleur de domaine
 ```
 Gérer → Ajouter rôle et fonc. → Option 1 → Service AD DS → Installation
 
