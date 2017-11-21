@@ -2,7 +2,17 @@
 
 ## Installation du serveur
 
-XC9B7-NBPP2-83J2H-RHMBY-92BT4
+> Licence : XC9B7-NBPP2-83J2H-RHMBY-92BT4
+> Mot de passe par défaut : P@ssw0rd
+
+```
+Quelques commandes ...
+
+ipconfig /release → Supprimer l'IP actuelle
+ipconfig /renew → Demander une nouvelle IP au serveur DHCP
+
+gpupdate → Mettre à jour une startégie sans reboot
+```
 
 > Ne vous occupez pas du mot de passe du compte, nous nous en occuperons plus tard
 
