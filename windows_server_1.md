@@ -2,6 +2,8 @@
 
 ## Installation du serveur
 
+> Ne vous occupez pas du mot de passe du compte, nous nous en occuperons plus tard
+
 1 - Définir une IPv4 statique dans le centre de réseau (décocher IPv6 si vous le souhaitez)
 ```
  192.168.x.10 (IP)
