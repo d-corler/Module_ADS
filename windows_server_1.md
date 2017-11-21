@@ -3,6 +3,7 @@
 ## Installation du serveur
 
 > Licence : XC9B7-NBPP2-83J2H-RHMBY-92BT4
+
 > Mot de passe par défaut : P@ssw0rd
 
 ```
