@@ -79,6 +79,10 @@ A COMPLETER
 
 SQL
 SQL Server Configuration Manager
--
+- Configuration de SQL
+-- Protocoles clients
+--- Tout activer
+
+Par-Feu → à autorisé : SQL Browser
 
 - DNS
