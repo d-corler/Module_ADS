@@ -56,3 +56,24 @@ Clique droit sur le nouvel objet, modifier
 ```
 
 > Redémarrer
+
+4 - Ajouter un service DHCP (ajouts fonctionnalitées, ...)
+```
+Gérer
+- DHCP
+-- Le serveur (exemple : serv135-03.dom135-03.local
+--- Clique droit sur IPv4, nouvelle étendue
+---- Nom à convenance
+---- Ips (ex: 192.168.3.100 et 192.168.3.199) et Masque 255.255.255.0
+---- Ips à exclure (ex: 192.168.3.150 -> 2x si une seule ip à exclure)
+---- Ne pas toucher au bail si non nécessaire
+---- Configurer les options
+---- Passerelle du serveur (ex: 192.168.3.1)
+---- L'Ip est normallement auto définie, sinon ajoutez celle du serveur (ex: 192.168.3.10)
+---- Passez jusqu'à l'installation (validez l'étendue lorsque demandé)
+-- Clique droit sur la nouvelle étendue et "activer"
+```
+
+
+
+- DNS
