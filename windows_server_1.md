@@ -52,6 +52,6 @@ Clique droit sur le nouvel objet, modifier
 --- Paramètres windows
 ---- Paramètres de sécurité
 ----- Stratégie de comptes
------- Stratégie de mot de passe
+------ Stratégie de mot de passe (Désactiver le respect des exigences, ...)
 ```
 
