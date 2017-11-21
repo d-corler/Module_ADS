@@ -33,3 +33,20 @@ Exemple : SERV135-03
   Choisir la compatibilité du même type et les deux premières cases, mot de passe : P@ssw0rd
   Passer jusqu'à l'installation
 ```
+
+> Maintenant, on modifie la stratégie des mots de passe
+```
+Gestion des stratégies de groupe
+Domain Controllers
+Créer un objet GPO
+	Nom à convenance
+
+Clique droit sur le nouvel objet, modifier
+		Configuration ordinateur
+			Stratégie
+				Paramètres windows
+					Paramètres de sécurité
+						Stratégie de comptes
+							Stratégie de mot de passe
+```
+
