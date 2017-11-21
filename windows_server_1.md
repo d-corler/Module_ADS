@@ -26,9 +26,9 @@ Exemple : SERV135-03
   Option radio 1
   Service AD DS
   Passer jusqu'à l'installation
-
-# Ajouter contrôleur
-  Promouvoir en contrôleur de domaine
+```
+> Une alerte apparaît, cliquez sur "Promouvoir en contrôleur de domaine"
+```
   Ajouter une nouvelle forêt (DOM135-03.local)
   Choisir la compatibilité du même type et les deux premières cases, mot de passe : P@ssw0rd
   Passer jusqu'à l'installation
