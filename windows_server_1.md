@@ -55,3 +55,4 @@ Clique droit sur le nouvel objet, modifier
 ------ Stratégie de mot de passe (Désactiver le respect des exigences, ...)
 ```
 
+> Redémarrer
