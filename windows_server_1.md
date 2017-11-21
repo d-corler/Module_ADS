@@ -20,9 +20,15 @@ Exemple : SERV135-03
 
 3 - Ajouter le contrôleur de domaine
 ```
-Gérer → Ajouter rôle et fonc. → Option 1 → Service AD DS → Installation
+# Ajouter le rôle
+  Gérer
+  Ajouter rôle et fonc.
+  Option radio 1
+  Service AD DS
+  Passer jusqu'à l'installation
 
-Promouvoir en contrôleur de domaine
+# Ajouter contrôleur
+  Promouvoir en contrôleur de domaine
   Ajouter une nouvelle forêt (DOM135-03.local)
   Choisir la compatibilité du même type et les deux premières cases, mot de passe : P@ssw0rd
   Passer jusqu'à l'installation
