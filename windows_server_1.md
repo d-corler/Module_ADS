@@ -39,14 +39,14 @@ Exemple : SERV135-03
 Gestion des stratégies de groupe
 Domain Controllers
 Créer un objet GPO
-	Nom à convenance
+  Nom à convenance
 
 Clique droit sur le nouvel objet, modifier
-		Configuration ordinateur
-			Stratégie
-				Paramètres windows
-					Paramètres de sécurité
-						Stratégie de comptes
-							Stratégie de mot de passe
+- Configuration ordinateur
+-- Stratégie
+--- Paramètres windows
+---- Paramètres de sécurité
+----- Stratégie de comptes
+------ Stratégie de mot de passe
 ```
 
