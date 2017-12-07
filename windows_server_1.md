@@ -87,6 +87,44 @@ Gérer
 -- Clique droit sur la nouvelle étendue et "activer"
 ```
 
+5 - Ajouter Serveur Web  IIS
+```
+# Ajouter le rôle
+  Gérer
+  - Ajouter rôle et fonc.
+  -- Option radio 1
+  -- Service WEB IIS
+  -- Passer jusqu'à fonctionnalités -> Cocher FTP
+  -- Passer jusqu'à l'installation
+```
+> Création du site 
+```
+  Outil
+  - Gestionnaire des services Internet(IIS)
+  -- SERV135-06
+  --- Clic droit sur Sies
+  --- Ajouter un nouveau site
+  --- Donner nom, chemin, nom de domaine
+  --- OK
+  -- A droite -> Clic droit sur le site qui vient d'être crée
+  -- Explorer
+  -- Créer un fichier index.html -> Coder votre super site
+```
+> Quand ces étapes sont réalisées,  on peut voir le site par défaut en tapant localhost. Pour activer le site que vous avez crée, il faut activer le DNS.
+Pour cela :
+
+```
+  Outil
+  - DNS
+  -- SERV135-06
+  --- Clic droit sur zone de recherche direct -> Nouvelle zone
+  --- Suivant jusqu'à nom de la zone -> donner un nom
+  --- Suivant Installer
+  -- Sur zone droite -> Double Clic sur la nouvelle zone
+  --- Clic droit dans le vide -> Nouvel Alias (CNAME)
+  --- Donner nom Alias, nom de domaine (Vous pourez le trouver en faisant parcourir)
+```
+> Voilà il ne reste plus qu'à taper votre nom de domaine dans un navigateur ;)
 
 A COMPLETER
 
